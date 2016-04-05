@@ -30,3 +30,7 @@
     background-color: #f6fafb;
     border: 1px solid #bdc3c7;
 }
+
+.btn-square.btn-search {
+    margin-top: 0;
+}
